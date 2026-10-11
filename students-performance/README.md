@@ -1,1 +1,1 @@
-# factors associated wiht Students academic performance
+# factors associated with Students academic performance
