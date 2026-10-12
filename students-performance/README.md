@@ -11,12 +11,12 @@ Load data → validate → decode codes into labels (view) → explore → analy
 ## 1. Research question and objectives 
 
 ### Research Question 
-To what extent is students' academic performance (math, reading, writing and there overall performance) associated with their exam preparation and the other indirect factors (parent education, lunch type, ethnicity, and gender) ? 
+To what extent is students' academic performance (math, reading, writing and their overall performance) associated with their exam preparation and the other indirect factors (parent education, lunch type, ethnicity, and gender) ? 
 
 ### Objectives 
-1. examine the relationship between exam prepartion and students academic performance.
-2. examine indirect factors effect on students academic performance.
-3. indenfity which indirect factors whos the strongest association wiht academic performance.
+1. Examine the relationship between exam preparation and students academic performance.
+2. Examine indirect factors effect on students academic performance.
+3. Indentify which indirect factors whos the strongest association wiht academic performance.
 4. Compare the association of the direct factor and the indirect factors .
 
 ### Hypotheses 
@@ -88,7 +88,7 @@ The results shows that students who completed the course preparation score highe
 - **Parental education:** scores rise with education level, from 63.10 (high school) to 73.60 (master's degree). **H2: Supported.**
 - **Lunch type:** standard lunch students scored 8.64 points higher, with the largest gap in math (11.11). **H3: Supported.**
 - **Ethnicity:** averages rise from group A (62.99) to group E (72.75), a spread of 9.76 points.
-- **Gender:** females led overall (69.57 vs. 65.84), but males led in math (+5.10) while females led in reading (+7.14) and writing (+9.16). **H4: Supported.**
+- **Gender:** the overall gap was small (female 69.57 vs. male 65.84, 3.73 points) and the direction depends on the subject: males led in math (+5.10), females in reading (+7.14) and writing (+9.16). **H4: Partly supported.** because ethnicity differs clearly (9.76-point spread), but the gender difference is small.
 
 
 
@@ -131,7 +131,7 @@ Prepared students scored higher in all 13 subgroups (gaps from 4.12 to 10.85 poi
 
 
 ## 4. Conclusion 
-Academic performance is accociated with both exam preparation and background factors but these indirect factors effects students performance more than preparing or not does as we saw parental education showed the largest score gap (10.50) points, followed by ethnicity (9.76) and lunch type (8.64). this does not mean preparing for the exam does not effect the students. it actually does as the results shows the prep gap was positive in all 13 subgroups. 
+Academic performance is associated with both exam preparation and background factors but these indirect factors effects students performance more than preparing or not does as we saw parental education showed the largest score gap (10.50) points, followed by ethnicity (9.76) and lunch type (8.64). This does not mean preparing for the exam does not effect the students. it actually does as the results shows the prep gap was positive in all 13 subgroups. 
 
 ### Recommendations : 
 1. Motivate students to prepare more for their tests especially students on free lunch where the gap was 8.81 points.
