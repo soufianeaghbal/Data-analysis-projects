@@ -58,11 +58,11 @@ The 1,000 students averaged 67.77 overall (SD = 14.25). Math was the weakest sub
 ### Finding 1: Exam preparation (Objective 1)
 | Group | Students | Avg math | Avg reading | Avg writing | Avg overall |
 |-------|----------|----------|-------------|-------------|-------------|
-| Completed | 358 | 64.08 | 66.53 | 64.50 | 65.04 |
-| None | 642 | 69.70 | 73.89 | 74.42 | 72.67 |
+| Completed | 358 | 69.70 | 73.89 | 74.42 | 72.67 |
+| None | 642 | 64.08 | 66.53 | 64.50 | 65.04 |
 | **Gap** | | **+5.62** | **+7.36** | **+9.92** | **+7.63** |
 
-The results shows that students who completed the course preparation score higher with a signification gap in the results. where reading have the highest scores gap by 9.92 and an average of 7.63 for the overall which makes **H1: Supported.**
+The results shows that students who completed the course preparation score higher with a signification gap in the results. where writing have the highest scores gap by 9.92 and an average of 7.63 for the overall which makes **H1: Supported.**
 
 
 
