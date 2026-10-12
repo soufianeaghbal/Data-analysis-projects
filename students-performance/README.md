@@ -24,12 +24,12 @@ To what extent is students' academic performance (math, reading, writing and the
 
 | Hypothesis | Tested in  |
 |---|----|
-| Students who completed the test preparation course score higher in all subjects than those who did not. | Task 2  |
-| Students whose parents have higher education levels score higher than students whose parents have lower education levels. | Task 3  |
-| Students with standard lunch score higher than students with free/reduced lunch. | Task 3  |
-| Average scores differ across ethnic groups and between genders. | Task 3  |
-| Among the indirect factors, lunch type and parental education show the largest score gaps. | Task 4  |
-| The score gap associated with exam preparation is smaller than the gaps associated with the strongest indirect factors. | Task 5  |
+| Students who completed the test preparation course score higher in all subjects than those who did not. | Task 3  |
+| Students whose parents have higher education levels score higher than students whose parents have lower education levels. | Task 4  |
+| Students with standard lunch score higher than students with free/reduced lunch. | Task 4  |
+| Average scores differ across ethnic groups and between genders. | Task 4  |
+| Among the indirect factors, lunch type and parental education show the largest score gaps. | Task 5  |
+| The score gap associated with exam preparation is smaller than the gaps associated with the strongest indirect factors. | Task 5 & 6  |
 
 
 ## 2. Data Dictionary 
