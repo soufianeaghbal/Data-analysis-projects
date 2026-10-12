@@ -1,12 +1,12 @@
-# factors associated with Students academic performance
+# Factors associated with Students academic performance
 
 In this project i analyzed 1,000 students' exam scores, trying to examine which factors really matters to students performance are they the direct factors which is basically preparing for exams or is there some indirect variables that affects students performance such as their parents education levels, gender and more variables 
 
 ### Tools :
-MySQL, Tableau, Excel 
+MySQL, Excel 
 
 ### Project design :
-Load data → validate → decode codes into labels (view) → explore → analyze by objective → visualize.
+Load data → validate → decode codes into labels (view) → explore → analyze by objective 
 
 ## 1. Research question and objectives 
 
@@ -31,6 +31,7 @@ To what extent is students' academic performance (math, reading, writing and the
 | Among the indirect factors, lunch type and parental education show the largest score gaps. | Task 4  |
 | The score gap associated with exam preparation is smaller than the gaps associated with the strongest indirect factors. | Task 5  |
 
+
 ## 2. Data Dictionary 
 
 - `student_id`: unique ID for each student
@@ -45,10 +46,12 @@ To what extent is students' academic performance (math, reading, writing and the
 - `total_score`
 - `average_score`
 
+
 ## 3. Data Analysis
 
 ### Overview
 The 1,000 students averaged 67.77 overall (SD = 14.25). Math was the weakest subject (66.09) and reading the strongest (69.17), with writing at 68.05. Individual averages ranged from 9 to 100.
+
 
 
 
@@ -60,6 +63,7 @@ The 1,000 students averaged 67.77 overall (SD = 14.25). Math was the weakest sub
 | **Gap** | | **+5.62** | **+7.36** | **+9.92** | **+7.63** |
 
 The results shows that students who completed the course preparation score higher with a signification gap in the results. where reading have the highest scores gap by 9.92 and an average of 7.63 for the overall which makes **H1: Supported.**
+
 
 
 ### Finding 2: Indirect factors (Objective 2)
@@ -87,6 +91,7 @@ The results shows that students who completed the course preparation score highe
 - **Gender:** females led overall (69.57 vs. 65.84), but males led in math (+5.10) while females led in reading (+7.14) and writing (+9.16). **H4: Supported.**
 
 
+
 ### Finding 3: Ranking the factors (Objective 3)
 | Rank | Factor | Type | Score gap | Effect size (gap / 14.25) |
 |------|--------|------|-----------|---------------------------|
@@ -97,6 +102,7 @@ The results shows that students who completed the course preparation score highe
 | 5 | Gender | Indirect | 3.73 | 0.26 |
 
 Parental education showed the largest gap, followed by ethnicity and lunch type. Gender showed the smallest. **H5: Not supported**.
+
 
 
 ### Finding 4: Direct vs indirect factors (Objective 4)
@@ -123,8 +129,10 @@ Test prep gap within each subgroup (completed minus none):
 Prepared students scored higher in all 13 subgroups (gaps from 4.12 to 10.85 points), so the association holds regardless of background. Background gaps also remained: among students without preparation, standard lunch students scored 9.35 points higher than free/reduced students (68.30 vs. 58.95), and among prepared students 7.75 points higher (75.51 vs. 67.76).
 
 
+
 ## 4. Conclusion 
 Academic performance is accociated with both exam preparation and background factors but these indirect factors effects students performance more than preparing or not does as we saw parental education showed the largest score gap (10.50) points, followed by ethnicity (9.76) and lunch type (8.64). this does not mean preparing for the exam does not effect the students. it actually does as the results shows the prep gap was positive in all 13 subgroups. 
+
 ### Recommendations : 
 1. Motivate students to prepare more for their tests especially students on free lunch where the gap was 8.81 points.
 2. Hold support programs for students whose parents have a high school education or less.
